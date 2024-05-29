@@ -1,0 +1,17 @@
+{
+  "name": "user_privileges",
+  "version": "1.0.0",
+  "description": "Simple web app to check user privileges",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-addon-api": "^3.2.1",
+    "open": "^8.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
